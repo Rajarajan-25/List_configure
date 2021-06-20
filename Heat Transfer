@@ -7,7 +7,9 @@ conduction
   transient conduction
 convection
 forced
-  external fluid flow
+  Reynold's theory
+    external fluid flow
+    internal fludi flow
 natural
   natural buoyant flow
 radiation
