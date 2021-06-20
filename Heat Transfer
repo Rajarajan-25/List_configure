@@ -8,7 +8,9 @@ conduction
 convection
 Based on prandtl's works and Reynold's work
 forced
-  external fluid flow
+  Reynold's theory
+    external fluid flow
+    internal fludi flow
 natural
   natural buoyant flow
 radiation
