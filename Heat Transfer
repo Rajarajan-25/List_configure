@@ -6,5 +6,7 @@ stable
 transient
 convection
 forced
+  external fluid flow
 natural
+  natural buoyant flow
 radiation
