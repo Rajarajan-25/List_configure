@@ -2,8 +2,9 @@ Heat
 Most transient energy
 but conserved
 conduction
-stable
-transient
+  steady conduction
+  Lumped system
+  transient conduction
 convection
 forced
   external fluid flow
